@@ -1,0 +1,23 @@
+{
+  "name": "contactsproject",
+  "version": "1.0.0",
+  "description": "Contacts Project API for cse 341",
+  "homepage": "https://github.com/Stratoverus/cse341#readme",
+  "bugs": {
+    "url": "https://github.com/Stratoverus/cse341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stratoverus/cse341.git"
+  },
+  "license": "ISC",
+  "author": "Keith Eberhard",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
