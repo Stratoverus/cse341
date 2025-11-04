@@ -1,0 +1,5 @@
+### Get all contacts
+GET https://cse341-contacts-vi6v.onrender.com/contacts
+
+### Get an individual contact
+GET https://cse341-contacts-vi6v.onrender.com/contacts/69083d4809a993596d80ff9f
