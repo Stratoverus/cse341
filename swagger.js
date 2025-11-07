@@ -5,7 +5,7 @@ const doc = {
     title: 'Week 02 CSE 341 Contacts Project',
     description: 'Week 02 routes '
   },
-  host: 'cse341-contacts-vi6v.onrender.com/',
+  host: 'cse341-contacts-vi6v.onrender.com',
   schemes: ['http', 'https']
 };
 
