@@ -5,7 +5,8 @@ const doc = {
     title: 'Week 02 CSE 341 Contacts Project',
     description: 'Week 02 routes '
   },
-  host: 'localhost:3000'
+  host: 'localhost:3000',
+  schemes: ['https', 'http']
 };
 
 const outputFile = './swagger-output.json';
