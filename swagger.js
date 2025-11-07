@@ -6,7 +6,7 @@ const doc = {
     description: 'Week 02 routes '
   },
   host: 'localhost:3000',
-  schemes: ['https', 'http']
+  schemes: ['http', 'https']
 };
 
 const outputFile = './swagger-output.json';
