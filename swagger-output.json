@@ -5,7 +5,7 @@
     "description": "Week 02 routes ",
     "version": "1.0.0"
   },
-  "host": "https://cse341-contacts-vi6v.onrender.com/",
+  "host": "cse341-contacts-vi6v.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
